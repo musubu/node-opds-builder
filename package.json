@@ -1,0 +1,16 @@
+{
+  "name": "opds-builder",
+  "author": "Musubu Inc. <dev@musubu.co.jp>",
+  "description": "OPDS catalog feed builder for node",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/musubu/node-opds-builder"
+  },
+  "keywords": ["opds", "builder", "xml", "atom", "syndication"],
+  "engines": {
+    "node": ">=0.6.10"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
